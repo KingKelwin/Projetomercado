@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "splash": {
+      "image": "./assets/splash.png"
+    },
+    "icon": "./assets/icon.png",
+  
+    "name": "projetopag",
+    "slug": "projetopag",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
